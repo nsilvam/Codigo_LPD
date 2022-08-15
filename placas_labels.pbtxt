@@ -1,0 +1,10 @@
+item {
+    name: "vehicle",
+    id: 1,
+    display_name: "vehicle"
+}
+item {
+    name: "license-plate",
+    id: 2,
+    display_name: "license-plate"
+}
